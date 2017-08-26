@@ -1,0 +1,53 @@
+Questões Gerais
+1. Os objetivos do sistema foram definidos?
+2. Os requisitos estão claros e não ambíguos?
+3. Foi fornecida uma visão geral da funcionalidade do sistema?
+4. Foi fornecida uma visão geral das formas de operação do sistema?
+5. O software e o hardware necessários foram especificados?
+6. Se existe alguma suposição que afete a implementação, ela foi declarada?
+7. Para cada função, os requisitos foram especificados em termos de entrada,
+processamento e saída?
+8. Todas as funções, dispositivos e restrições estão relacionadas aos objetivos do
+sistema e vice-versa?
+
+Omissão – Funcionalidade
+1. As funções descritas são suficientes para alcançar os objetivos do sistema?
+2. As entradas declaradas para as funções são suficientes para que elas sejam
+executadas?
+3. Foram considerados os eventos indesejáveis e as respostas a eles foram
+especificadas?
+4. Foram considerados o estado inicial e os estados especiais (por ex. inicialização do
+sistema, término anormal)?
+
+Omissão – Desempenho
+1. O sistema pode ser testado, analisado ou inspecionado para mostrar que ele
+satisfaz seus requisitos?
+3. Os tipos de dados, unidades, limites e resolução foram especificados?
+4. A frequência e volume de entrada e saída foram especificados para cada função?
+Omissão – Interface
+1. As entradas e saídas para todas as interfaces são suficientes?
+2. Foram especificados os requisitos de interface entre hardware, software, pessoas e
+procedimentos?
+
+Omissão - Recursos do Ambiente
+1. Foram especificadas de forma apropriada as funcionalidades de interação entre
+hardware, software com o sistema?
+
+Informação Estranha
+1. Todas as funções especificadas são necessárias para alcançar os objetivos do
+sistema?
+2. As entradas das funções são necessárias para executá-las?
+3. As entradas e saídas das interfaces são necessárias?
+4. As saídas produzidas por uma função são usadas por outra função ou transferidas
+para a interface externa?
+
+Ambiguidade
+1. Cada requisito foi especificado de forma discreta, não ambígua e testável?
+2. Todas as transições do sistema foram especificadas de forma determinística?
+
+Inconsistência
+1. Os requisitos estão consistentes entre si?
+
+Fato Incorreto
+1. As funções especificadas são coerentes com o sistema e com os objetivos a serem
+alcançados?
