@@ -22,7 +22,7 @@ sistema, término anormal)?
 Omissão – Desempenho
 1. O sistema pode ser testado, analisado ou inspecionado para mostrar que ele
 satisfaz seus requisitos?
-3. Os tipos de dados, unidades, limites e resolução foram especificados?
+3. Os tipos de dados, unidades, limites e resolução foram especificados? (Luccas)
 4. A frequência e volume de entrada e saída foram especificados para cada função?
 Omissão – Interface
 1. As entradas e saídas para todas as interfaces são suficientes?
@@ -36,7 +36,7 @@ hardware, software com o sistema?
 Informação Estranha
 1. Todas as funções especificadas são necessárias para alcançar os objetivos do
 sistema?
-2. As entradas das funções são necessárias para executá-las?
+2. As entradas das funções são necessárias para executá-las? (Luccas)
 3. As entradas e saídas das interfaces são necessárias?
 4. As saídas produzidas por uma função são usadas por outra função ou transferidas
 para a interface externa?
