@@ -1,0 +1,8 @@
+Revisao documento de requisitos.
+
+Felipe Antonio Miotto (FAM). 27/08/2017
+Problemas encontrados:
+
+-> O "RF03 Manter Acesso" se propoe a implementar algo que ja é feito automaticamente atravez do SGBD. Não se faz necessario devenvolve-lo.
+
+-> No documento foi proposto o desenvolvimento de um software para dispositivos móveis, pore
