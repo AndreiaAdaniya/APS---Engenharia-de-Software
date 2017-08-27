@@ -23,33 +23,33 @@ Omissão – Desempenho
 1. O sistema pode ser testado, analisado ou inspecionado para mostrar que ele
 satisfaz seus requisitos?
 3. Os tipos de dados, unidades, limites e resolução foram especificados? (Luccas) (Verificado)
-4. A frequência e volume de entrada e saída foram especificados para cada função? (Verificado)
+4. A frequência e volume de entrada e saída foram especificados para cada função? (Luccas) (Verificado)
 
 Omissão – Interface
 
-1. As entradas e saídas para todas as interfaces são suficientes? (Verificado)
+1. As entradas e saídas para todas as interfaces são suficientes? (Luccas) (Verificado)
 2. Foram especificados os requisitos de interface entre hardware, software, pessoas e
-procedimentos? (Verificado)
+procedimentos? (Luccas) (Verificado)
 
 Omissão - Recursos do Ambiente
 1. Foram especificadas de forma apropriada as funcionalidades de interação entre
-hardware, software com o sistema? (Verificado)
+hardware, software com o sistema? (Luccas) (Verificado)
 
 Informação Estranha
 1. Todas as funções especificadas são necessárias para alcançar os objetivos do
-sistema? (Verificado)
+sistema? (Luccas) (Verificado)
 2. As entradas das funções são necessárias para executá-las? (Luccas) (Verificado)
-3. As entradas e saídas das interfaces são necessárias?
+3. As entradas e saídas das interfaces são necessárias?(Felipe Verificado)
 4. As saídas produzidas por uma função são usadas por outra função ou transferidas
-para a interface externa?
+para a interface externa?(Felipe Verificado)
 
 Ambiguidade
-1. Cada requisito foi especificado de forma discreta, não ambígua e testável?
-2. Todas as transições do sistema foram especificadas de forma determinística?
+1. Cada requisito foi especificado de forma discreta, não ambígua e testável?(Felipe Verificado)
+2. Todas as transições do sistema foram especificadas de forma determinística? (Felipe Verificado)
 
 Inconsistência
-1. Os requisitos estão consistentes entre si?
+1. Os requisitos estão consistentes entre si? (Felipe Verificado)
 
 Fato Incorreto
 1. As funções especificadas são coerentes com o sistema e com os objetivos a serem
-alcançados?
+alcançados? (Felipe Verificado)
