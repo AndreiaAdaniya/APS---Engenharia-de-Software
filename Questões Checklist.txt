@@ -6,22 +6,22 @@ Questões Gerais
 5. O software e o hardware necessários foram especificados?
 6. Se existe alguma suposição que afete a implementação, ela foi declarada?
 7. Para cada função, os requisitos foram especificados em termos de entrada,
-processamento e saída?
+processamento e saída? (Loren) (Verificado)
 8. Todas as funções, dispositivos e restrições estão relacionadas aos objetivos do
-sistema e vice-versa?
+sistema e vice-versa? (Loren) (Verificado)
 
 Omissão – Funcionalidade
-1. As funções descritas são suficientes para alcançar os objetivos do sistema?
+1. As funções descritas são suficientes para alcançar os objetivos do sistema? (Loren) (Verificado)
 2. As entradas declaradas para as funções são suficientes para que elas sejam
-executadas?
+executadas? (Loren) (Verificado)
 3. Foram considerados os eventos indesejáveis e as respostas a eles foram
-especificadas?
+especificadas? (Loren) (Verificado)
 4. Foram considerados o estado inicial e os estados especiais (por ex. inicialização do
-sistema, término anormal)?
+sistema, término anormal)? (Loren) (Verificado)
 
 Omissão – Desempenho
 1. O sistema pode ser testado, analisado ou inspecionado para mostrar que ele
-satisfaz seus requisitos?
+satisfaz seus requisitos? (Loren) (Verificado)
 3. Os tipos de dados, unidades, limites e resolução foram especificados? (Luccas) (Verificado)
 4. A frequência e volume de entrada e saída foram especificados para cada função? (Luccas) (Verificado)
 
