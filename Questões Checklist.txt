@@ -1,7 +1,7 @@
 Questões Gerais
-1. Os objetivos do sistema foram definidos? (Andreia)
-2. Os requisitos estão claros e não ambíguos? (Andreia)
-3. Foi fornecida uma visão geral da funcionalidade do sistema? (Andreia)
+1. Os objetivos do sistema foram definidos? (Andreia) (Verificado)
+2. Os requisitos estão claros e não ambíguos? (Andreia) (Verificado)
+3. Foi fornecida uma visão geral da funcionalidade do sistema? (Andreia) (Verificado)
 4. Foi fornecida uma visão geral das formas de operação do sistema?
 5. O software e o hardware necessários foram especificados?
 6. Se existe alguma suposição que afete a implementação, ela foi declarada?
